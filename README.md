@@ -160,6 +160,6 @@ Email → Camunda → AI (Ollama)
 
 ## 🙌 Author
 
-**Rajesh Kanna**
+**Rajesh Ponna**
 
 ---
